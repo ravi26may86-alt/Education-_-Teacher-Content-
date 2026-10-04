@@ -2,7 +2,7 @@
 Open Educational Resources (OER), research notes, and video companion materials on teacher education, literacy development, and pedagogical frameworks.
 ## 🎥 YouTube Channel
 Check out video explanations and visual walkthroughs on my YouTube channel:
-- [Knowledge is the Key](https://www.youtube.com) <www.youtube.com/@EducationForAll-Ind>
+- [Knowledge is the Key](https://www.youtube.com/@EducationForAll-Ind) 
 
 ## 📚 Interactive NotebookLM
 Explore the interactive AI-assisted knowledge base here:
